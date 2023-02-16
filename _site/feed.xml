@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-02-11T14:38:27-05:00</updated>
+  <updated>2023-02-15T17:57:32-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -54,11 +54,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
+      <title type="html">Downdog</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Downdog" />
       <published>2014-07-17T00:00:00-04:00</published>
       <updated>2014-07-17T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-2</id>
+      <id>http://localhost:4000/downdog</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -74,7 +74,7 @@
       </author>
 
       
-        <category term="Web Development" />
+        <category term="Social Media Management" />
       
 
       
@@ -88,11 +88,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
+      <title type="html">Uvm</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Uvm" />
       <published>2014-07-16T00:00:00-04:00</published>
       <updated>2014-07-16T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-3</id>
+      <id>http://localhost:4000/UVM</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -122,12 +122,21 @@
     </entry>
   
     <entry>
-      <title type="html">Project 4</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 4" />
+      <title type="html">Wholesome</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Wholesome" />
       <published>2014-07-15T00:00:00-04:00</published>
       <updated>2014-07-15T00:00:00-04:00</updated>
-      <id>http://localhost:4000/project-4</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
+      <id>http://localhost:4000/wholesome</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
+&lt;p&gt;layout: default
+modal-id: 4
+date: 2014-07-15
+img: wholesome.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: wholesome memes&lt;/p&gt;</content>
 
       
       
@@ -142,13 +151,11 @@
       </author>
 
       
-        <category term="Web Development" />
-      
 
       
 
       
-        <summary type="html"></summary>
+        <summary type="html">layout: default modal-id: 4 date: 2014-07-15 img: wholesome.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: wholesome memes</summary>
       
 
       
