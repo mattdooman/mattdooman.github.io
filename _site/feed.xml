@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-02-15T19:25:42-05:00</updated>
+  <updated>2023-02-15T19:35:42-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,11 +20,11 @@
   
   
     <entry>
-      <title type="html">Respectful Memes</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Respectful Memes" />
-      <published>2014-07-18T00:00:00-04:00</published>
-      <updated>2014-07-18T00:00:00-04:00</updated>
-      <id>http://localhost:4000/Respectful-Memes</id>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2023-02-15T19:35:42-05:00</published>
+      <updated>2023-02-15T19:35:42-05:00</updated>
+      <id>http://localhost:4000/2014-07-18-Respectful-Memes</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -40,13 +40,9 @@
       </author>
 
       
-        <category term="Social Media" />
-      
 
       
 
-      
-        <summary type="html"></summary>
       
 
       
