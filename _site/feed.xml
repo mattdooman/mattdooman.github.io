@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-02-15T20:22:13-05:00</updated>
+  <updated>2023-02-23T14:34:27-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -131,7 +131,7 @@
 &lt;p&gt;layout: default
 modal-id: 4
 date: 2014-07-15
-img: wholesome.png
+img: Wholesomememe.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
@@ -157,7 +157,7 @@ and answered direct messages.&lt;/p&gt;</content>
       
 
       
-        <summary type="html">layout: default modal-id: 4 date: 2014-07-15 img: wholesome.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: I ran the wholesome memes twitter account. When i started, it had 300,000 followers and now has 3 million followers. I created and curated memes, liked comments and answered direct messages.</summary>
+        <summary type="html">layout: default modal-id: 4 date: 2014-07-15 img: Wholesomememe.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: I ran the wholesome memes twitter account. When i started, it had 300,000 followers and now has 3 million followers. I created and curated memes, liked comments and answered direct messages.</summary>
       
 
       
