@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Managed the University of Vermont's Reporting Department's Twitter account. Making posts, sharing students work, increase engagement and follow count.
+description: I manage the University of Vermont's Reporting Department's Twitter account. I Make posts, sharing students work, increase engagement and follow count. 
 ---
