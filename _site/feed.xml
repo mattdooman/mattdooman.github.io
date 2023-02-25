@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-02-23T14:51:44-05:00</updated>
+  <updated>2023-02-25T10:10:48-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,10 +20,44 @@
   
   
     <entry>
+      <title type="html">Downdog</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Downdog" />
+      <published>2020-04-01T00:00:00-05:00</published>
+      <updated>2020-04-01T00:00:00-05:00</updated>
+      <id>http://localhost:4000/downdog</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Social Media, Community Management" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Respectful Memes</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Respectful Memes" />
-      <published>2014-07-18T00:00:00-04:00</published>
-      <updated>2014-07-18T00:00:00-04:00</updated>
+      <published>2014-07-18T00:00:00-05:00</published>
+      <updated>2014-07-18T00:00:00-05:00</updated>
       <id>http://localhost:4000/Respectful-Memes</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -54,44 +88,10 @@
     </entry>
   
     <entry>
-      <title type="html">Downdog</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Downdog" />
-      <published>2014-07-17T00:00:00-04:00</published>
-      <updated>2014-07-17T00:00:00-04:00</updated>
-      <id>http://localhost:4000/downdog</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Social Media Management" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
       <title type="html">Uvm</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Uvm" />
-      <published>2014-07-16T00:00:00-04:00</published>
-      <updated>2014-07-16T00:00:00-04:00</updated>
+      <published>2014-07-16T00:00:00-05:00</published>
+      <updated>2014-07-16T00:00:00-05:00</updated>
       <id>http://localhost:4000/UVM</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -124,8 +124,8 @@
     <entry>
       <title type="html">Wholesome</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Wholesome" />
-      <published>2014-07-15T00:00:00-04:00</published>
-      <updated>2014-07-15T00:00:00-04:00</updated>
+      <published>2014-07-15T00:00:00-05:00</published>
+      <updated>2014-07-15T00:00:00-05:00</updated>
       <id>http://localhost:4000/wholesome</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
 &lt;p&gt;layout: default
@@ -167,8 +167,8 @@ and answered direct messages.&lt;/p&gt;</content>
     <entry>
       <title type="html">Project 6</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 6" />
-      <published>2014-07-15T00:00:00-04:00</published>
-      <updated>2014-07-15T00:00:00-04:00</updated>
+      <published>2014-07-15T00:00:00-05:00</published>
+      <updated>2014-07-15T00:00:00-05:00</updated>
       <id>http://localhost:4000/project-6</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -201,8 +201,8 @@ and answered direct messages.&lt;/p&gt;</content>
     <entry>
       <title type="html">Gudernews</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Gudernews" />
-      <published>2014-07-14T00:00:00-04:00</published>
-      <updated>2014-07-14T00:00:00-04:00</updated>
+      <published>2014-07-14T00:00:00-05:00</published>
+      <updated>2014-07-14T00:00:00-05:00</updated>
       <id>http://localhost:4000/gudernews</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
