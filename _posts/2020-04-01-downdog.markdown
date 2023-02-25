@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2020-04-01
-img: DownDogApp.png
+img: downdog.png
 alt: image-alt
 project-date: April 2020
 client: Down Dog App
 category: Social Media, Community Management
-description: Managed Instagram community for Down Dog.  Lead a campaign to curate and repost the best community tagged images.  Over 2 months, community posts had 100k impressions and follower count grew from 22k to 48k.
+description: I managed Down Dog's Instagram community, and lead a campaign to curate and repost the best community tagged images.  Over 2 months, community posts had 100k impressions and follower count grew from 22k to 48k.
 ---

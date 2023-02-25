@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: Reporting.png
+date: 2021-01-01
+img: uvm.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: I manage the University of Vermont's Reporting Department's Twitter account. I Make posts, sharing students work, increase engagement and follow count. 
+project-date: January 2021
+client: University of Vermont
+category: Social Media
+description: I manage the University of Vermont's Reporting Department's Twitter account. I make posts, sharing students work, increase engagement and follow count. 
 ---
