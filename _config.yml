@@ -5,7 +5,8 @@ email: mattdooman@gmail.com
 url: https://mattdooman.github.io
 description: "Memes and Media by Me"
 keywords: "respectful, wholesome, memes, social, twitter, instagram, reddit"
-skills: "Social Media - Memes - Brand - Video"
+skills: "Social Media - Community Management - Memes"
+subskills: "100 Million People Reached"
 meta_author: Matt Dooman
 
 # Google webmaster tools
@@ -33,7 +34,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Matt Dooman
   location: Location
   social: Around the Web
   credits: Credits
@@ -49,7 +50,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: paul's house 
+  - line: Paul's House 
   - line: Caladan 
 
 # Credits content
