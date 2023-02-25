@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-02-25T12:50:35-05:00</updated>
+  <updated>2023-02-25T16:33:42-05:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,36 @@
   
 
   
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2023-02-25T16:33:42-05:00</published>
+      <updated>2023-02-25T16:33:42-05:00</updated>
+      <id>http://localhost:4000/2014-07-14-gudernews</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Downdog</title>
@@ -136,8 +166,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: I ran the wholesome memes twitter account. When i started, it had 300,000 followers and now has 3 million followers. I \\created and curated memes, liked comments
-and answered direct messages.&lt;/p&gt;</content>
+description: I ran the wholesome memes twitter account. When i started, it had 300,000 followers and now has 3 million followers. I created and curated memes, liked comments and answered direct messages.&lt;/p&gt;</content>
 
       
       
@@ -156,7 +185,7 @@ and answered direct messages.&lt;/p&gt;</content>
       
 
       
-        <summary type="html">layout: default modal-id: 4 date: 2014-07-15 img: Wholesomememe.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: I ran the wholesome memes twitter account. When i started, it had 300,000 followers and now has 3 million followers. I \\created and curated memes, liked comments and answered direct messages.</summary>
+        <summary type="html">layout: default modal-id: 4 date: 2014-07-15 img: Wholesomememe.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: I ran the wholesome memes twitter account. When i started, it had 300,000 followers and now has 3 million followers. I created and curated memes, liked comments and answered direct messages.</summary>
       
 
       
@@ -169,40 +198,6 @@ and answered direct messages.&lt;/p&gt;</content>
       <published>2014-07-15T00:00:00-04:00</published>
       <updated>2014-07-15T00:00:00-04:00</updated>
       <id>http://localhost:4000/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Gudernews</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Gudernews" />
-      <published>2014-07-14T00:00:00-04:00</published>
-      <updated>2014-07-14T00:00:00-04:00</updated>
-      <id>http://localhost:4000/gudernews</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
