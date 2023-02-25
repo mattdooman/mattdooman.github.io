@@ -6,6 +6,6 @@ img: gudernews.png
 alt: image-alt
 project-date: May 2022
 client: Start Bootstrap
-category: Web Development
+category: Social Media
 description: Created a comedy magazine online. Each post ranges from 100-150,000 impressions.
 ---

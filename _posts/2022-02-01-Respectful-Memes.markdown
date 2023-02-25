@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-02-01
-img: respectful.png
+img: rspct.png
 alt: image-alt
 project-date: Februrary 2022
 client: Respectful Memes
