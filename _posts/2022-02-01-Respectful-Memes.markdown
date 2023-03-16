@@ -7,5 +7,4 @@ alt: image-alt
 project-date: Februrary 2022
 client: Respectful Memes
 category: Social Media
-description: I manage the Respectfulmemes Twitter page. I've grown the page to 1.9 million followers by creating and curating memes, and responding to direct messages.
----
+description: I managed the Respectfulmemes Twitter page. The page had 1 million followers, and I have raised that number to now  1.9 million. I created and curated memes, liked comments and answered direct messages. 

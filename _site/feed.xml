@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-16T14:16:30-04:00</updated>
+  <updated>2023-03-16T14:27:27-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -34,7 +34,8 @@ alt: image-alt
 project-date: May 2022
 client: Start Bootstrap
 category: Social Media
-description: Created a comedy magazine online called Gudernews in May of 2022.  Currently there are 9 writers on my slack.  Each post ranges from 100-150,000 impressions and 500-1000 likes.&lt;/p&gt;</content>
+description: I created a comedy magazine online. I recieve pitches from  9 writers on my slack and create original videos and headlines myself.  Each post
+ranges from 100-150,000 impressions and 500-1000 likes.&lt;/p&gt;</content>
 
       
       
@@ -53,7 +54,7 @@ description: Created a comedy magazine online called Gudernews in May of 2022.  
       
 
       
-        <summary type="html">layout: default modal-id: 5 date: 2022-05-01 img: gudernews.png alt: image-alt project-date: May 2022 client: Start Bootstrap category: Social Media description: Created a comedy magazine online called Gudernews in May of 2022. Currently there are 9 writers on my slack. Each post ranges from 100-150,000 impressions and 500-1000 likes.</summary>
+        <summary type="html">layout: default modal-id: 5 date: 2022-05-01 img: gudernews.png alt: image-alt project-date: May 2022 client: Start Bootstrap category: Social Media description: I created a comedy magazine online. I recieve pitches from 9 writers on my slack and create original videos and headlines myself. Each post ranges from 100-150,000 impressions and 500-1000 likes.</summary>
       
 
       
@@ -66,7 +67,16 @@ description: Created a comedy magazine online called Gudernews in May of 2022.  
       <published>2022-02-01T00:00:00-05:00</published>
       <updated>2022-02-01T00:00:00-05:00</updated>
       <id>http://localhost:4000/Respectful-Memes</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
+      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
+&lt;p&gt;layout: default
+modal-id: 1
+date: 2022-02-01
+img: rspct.png
+alt: image-alt
+project-date: Februrary 2022
+client: Respectful Memes
+category: Social Media
+description: I managed the Respectfulmemes Twitter page. The page had 1 million followers, and I have raised that number to now  1.9 million. I created and curated memes, liked comments and answered direct messages.&lt;/p&gt;</content>
 
       
       
@@ -81,13 +91,11 @@ description: Created a comedy magazine online called Gudernews in May of 2022.  
       </author>
 
       
-        <category term="Social Media" />
-      
 
       
 
       
-        <summary type="html"></summary>
+        <summary type="html">layout: default modal-id: 1 date: 2022-02-01 img: rspct.png alt: image-alt project-date: Februrary 2022 client: Respectful Memes category: Social Media description: I managed the Respectfulmemes Twitter page. The page had 1 million followers, and I have raised that number to now 1.9 million. I created and curated memes, liked comments and answered direct messages.</summary>
       
 
       
@@ -177,7 +185,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: I ran the wholesome memes twitter account. When i started, it had 300,000 followers and now has 3 million followers. I created and curated memes, liked comments and answered direct messages.&lt;/p&gt;</content>
+description: I ran the wholesome memes twitter account. When I started, it had 300,000 followers which I have now raised to 3 million followers. I created and curated memes, liked comments and answered direct messages.  In addition, I made TikToks for the channel which culminated in 100,000 views each and did live videos on periscope.&lt;/p&gt;</content>
 
       
       
@@ -196,7 +204,7 @@ description: I ran the wholesome memes twitter account. When i started, it had 3
       
 
       
-        <summary type="html">layout: default modal-id: 4 date: 2014-07-15 img: Wholesomememe.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: I ran the wholesome memes twitter account. When i started, it had 300,000 followers and now has 3 million followers. I created and curated memes, liked comments and answered direct messages.</summary>
+        <summary type="html">layout: default modal-id: 4 date: 2014-07-15 img: Wholesomememe.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: I ran the wholesome memes twitter account. When I started, it had 300,000 followers which I have now raised to 3 million followers. I created and curated memes, liked comments and answered direct messages. In addition, I made TikToks for the channel which culminated in 100,000 views each and did live videos on periscope.</summary>
       
 
       
