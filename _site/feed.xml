@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-16T16:06:13-04:00</updated>
+  <updated>2023-03-16T16:09:36-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -129,6 +129,40 @@ description: I created a comedy magazine online. I recieve pitches from 9 writer
     </entry>
   
     <entry>
+      <title type="html">Wholesome</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Wholesome" />
+      <published>2021-01-01T00:00:00-05:00</published>
+      <updated>2021-01-01T00:00:00-05:00</updated>
+      <id>http://localhost:4000/wholesome</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Social Media" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Downdog</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Downdog" />
       <published>2020-04-01T00:00:00-04:00</published>
@@ -156,47 +190,6 @@ description: I created a comedy magazine online. I recieve pitches from 9 writer
 
       
         <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Wholesome</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Wholesome" />
-      <published>2014-07-15T00:00:00-04:00</published>
-      <updated>2014-07-15T00:00:00-04:00</updated>
-      <id>http://localhost:4000/wholesome</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
-&lt;p&gt;layout: default
-modal-id: 5
-date: 2022-05-01
-img: Wholesomememe.png
-alt: image-alt
-project-date: May 2022
-client: Start Bootstrap
-category: Social Media
-description:  I managed the Wholesome memes Twitter page. The page had 300,000 followers when I started, and I have raised that number to n 3 million. I created and curated memes, liked comments and answered direct messages. I also created TikToks, each of which has an average of 100,000 views&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html">layout: default modal-id: 5 date: 2022-05-01 img: Wholesomememe.png alt: image-alt project-date: May 2022 client: Start Bootstrap category: Social Media description: I managed the Wholesome memes Twitter page. The page had 300,000 followers when I started, and I have raised that number to n 3 million. I created and curated memes, liked comments and answered direct messages. I also created TikToks, each of which has an average of 100,000 views</summary>
       
 
       
