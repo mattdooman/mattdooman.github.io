@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-16T13:52:40-04:00</updated>
+  <updated>2023-03-16T13:59:46-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -34,8 +34,7 @@ alt: image-alt
 project-date: May 2022
 client: Start Bootstrap
 category: Social Media
-description: Created a comedy magazine online in May of 2022. 
-—. Currently there are 9 writers on my slack.  Each post ranges from 100-150,000 impressions and 500-1000 likes.&lt;/p&gt;</content>
+description: Created a comedy magazine online called Gudernews in May of 2022.  Currently there are 9 writers on my slack.  Each post ranges from 100-150,000 impressions and 500-1000 likes.&lt;/p&gt;</content>
 
       
       
@@ -54,7 +53,7 @@ description: Created a comedy magazine online in May of 2022.
       
 
       
-        <summary type="html">layout: default modal-id: 5 date: 2022-05-01 img: gudernews.png alt: image-alt project-date: May 2022 client: Start Bootstrap category: Social Media description: Created a comedy magazine online in May of 2022. —. Currently there are 9 writers on my slack. Each post ranges from 100-150,000 impressions and 500-1000 likes.</summary>
+        <summary type="html">layout: default modal-id: 5 date: 2022-05-01 img: gudernews.png alt: image-alt project-date: May 2022 client: Start Bootstrap category: Social Media description: Created a comedy magazine online called Gudernews in May of 2022. Currently there are 9 writers on my slack. Each post ranges from 100-150,000 impressions and 500-1000 likes.</summary>
       
 
       
