@@ -1,11 +1,10 @@
 ---
 layout: default
-modal-id: 4
-date: 2014-07-15
+modal-id: 5
+date: 2022-05-01
 img: Wholesomememe.png
 alt: image-alt
-project-date: April 2014
+project-date: May 2022
 client: Start Bootstrap
-category: Web Development
-description: I ran the wholesome memes twitter account. When I started, it had 300,000 followers which I have now raised to 3 million followers. I created and curated memes, liked comments and answered direct messages.  In addition, I made TikToks for the channel which culminated in 100,000 views each and did live videos on periscope.
-
+category: Social Media
+description:  I managed the Wholesome memes Twitter page. The page had 300,000 followers when I started, and I have raised that number to n 3 million. I created and curated memes, liked comments and answered direct messages. I also created TikToks, each of which has an average of 100,000 views
