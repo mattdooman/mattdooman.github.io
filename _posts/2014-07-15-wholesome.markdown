@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2021-01-01
-img: Wholesomememe.png
+img: wholesome.png
 alt: image-alt
 project-date: January 2021
 client: Wholesomememe
