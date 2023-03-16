@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-16T15:12:36-04:00</updated>
+  <updated>2023-03-16T15:24:54-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,5 +18,226 @@
   
 
   
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2023-03-16T15:24:54-04:00</published>
+      <updated>2023-03-16T15:24:54-04:00</updated>
+      <id>http://localhost:4000/2014-07-14-gudernews</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Gudernews</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Gudernews" />
+      <published>2022-05-01T00:00:00-04:00</published>
+      <updated>2022-05-01T00:00:00-04:00</updated>
+      <id>http://localhost:4000/gudernews</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
+&lt;p&gt;layout: default
+modal-id: 5
+date: 2022-05-01
+img: gudernews.png
+alt: image-alt
+project-date: May 2022
+client: Start Bootstrap
+category: Social Media
+description: I created a comedy magazine online. I recieve pitches from 9 writers on my slack and create original videos and headlines myself.  Each post ranges from 100-150,000 impressions and 500-1000 likes.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">layout: default modal-id: 5 date: 2022-05-01 img: gudernews.png alt: image-alt project-date: May 2022 client: Start Bootstrap category: Social Media description: I created a comedy magazine online. I recieve pitches from 9 writers on my slack and create original videos and headlines myself. Each post ranges from 100-150,000 impressions and 500-1000 likes.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Respectful Memes</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Respectful Memes" />
+      <published>2022-02-01T00:00:00-05:00</published>
+      <updated>2022-02-01T00:00:00-05:00</updated>
+      <id>http://localhost:4000/Respectful-Memes</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
+&lt;p&gt;layout: default
+modal-id: 1
+date: 2022-02-01
+img: rspct.png
+alt: image-alt
+project-date: Februrary 2022
+client: Respectful Memes
+category: Social Media
+description: I managed the Respectfulmemes Twitter page. The page had 1 million followers when I started, and I have raised that number to now  1.9 million. I created and curated memes, liked comments and answered direct messages.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">layout: default modal-id: 1 date: 2022-02-01 img: rspct.png alt: image-alt project-date: Februrary 2022 client: Respectful Memes category: Social Media description: I managed the Respectfulmemes Twitter page. The page had 1 million followers when I started, and I have raised that number to now 1.9 million. I created and curated memes, liked comments and answered direct messages.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Uvm</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Uvm" />
+      <published>2021-01-01T00:00:00-05:00</published>
+      <updated>2021-01-01T00:00:00-05:00</updated>
+      <id>http://localhost:4000/UVM</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Social Media" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Downdog</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Downdog" />
+      <published>2020-04-01T00:00:00-04:00</published>
+      <updated>2020-04-01T00:00:00-04:00</updated>
+      <id>http://localhost:4000/downdog</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Community Management" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Wholesome</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Wholesome" />
+      <published>2014-07-15T00:00:00-04:00</published>
+      <updated>2014-07-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/wholesome</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
+&lt;p&gt;layout: default
+modal-id: 4
+date: 2014-07-15
+img: Wholesomememe.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: I ran the wholesome memes twitter account. When I started, it had 300,000 followers which I have now raised to 3 million followers. I created and curated memes, liked comments and answered direct messages.  In addition, I made TikToks for the channel which culminated in 100,000 views each and did live videos on periscope.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">layout: default modal-id: 4 date: 2014-07-15 img: Wholesomememe.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: I ran the wholesome memes twitter account. When I started, it had 300,000 followers which I have now raised to 3 million followers. I created and curated memes, liked comments and answered direct messages. In addition, I made TikToks for the channel which culminated in 100,000 views each and did live videos on periscope.</summary>
+      
+
+      
+      
+    </entry>
   
 </feed>
