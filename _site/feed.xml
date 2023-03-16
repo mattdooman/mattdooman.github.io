@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-16T16:42:37-04:00</updated>
+  <updated>2023-03-16T16:44:48-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -34,7 +34,7 @@ alt: image-alt
 project-date: May 2022
 client: Start Bootstrap
 category: Social Media
-description: I created a comedy magazine online. I recieve pitches from 9 writers on my slack and create original videos and headlines myself.  Each post ranges from 100-150,000 impressions and 500-1000 likes.&lt;/p&gt;</content>
+description:  I created a comedy magazine online. I recieve pitches from 9 writers on my slack and create original videos and headlines myself.  Each post ranges from 100-150,000 impressions and 500-1000 likes.&lt;/p&gt;</content>
 
       
       
@@ -190,47 +190,6 @@ description: I created a comedy magazine online. I recieve pitches from 9 writer
 
       
         <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Gudernews</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Gudernews" />
-      <published>2014-07-14T00:00:00-04:00</published>
-      <updated>2014-07-14T00:00:00-04:00</updated>
-      <id>http://localhost:4000/gudernews</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
-&lt;p&gt;layout: default
-modal-id: 5
-date: 2022-05-01
-img: gudernews.png
-alt: image-alt
-project-date: May 2022
-client: Start Bootstrap
-category: Social Media
-description: I created a comedy magazine online. I recieve pitches from 9 writers on my slack and create original videos and headlines myself.  Each post ranges from 100-150,000 impressions and 500-1000 likes.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html">layout: default modal-id: 5 date: 2022-05-01 img: gudernews.png alt: image-alt project-date: May 2022 client: Start Bootstrap category: Social Media description: I created a comedy magazine online. I recieve pitches from 9 writers on my slack and create original videos and headlines myself. Each post ranges from 100-150,000 impressions and 500-1000 likes.</summary>
       
 
       
