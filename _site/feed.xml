@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-16T15:37:55-04:00</updated>
+  <updated>2023-03-16T15:41:15-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,36 +18,6 @@
   
 
   
-  
-    <entry>
-      <title type="html"></title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
-      <published>2023-03-16T15:37:55-04:00</published>
-      <updated>2023-03-16T15:37:55-04:00</updated>
-      <id>http://localhost:4000/2014-07-14-gudernews</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-
-      
-      
-    </entry>
   
     <entry>
       <title type="html">Gudernews</title>
@@ -234,6 +204,47 @@ description: I ran the wholesome memes twitter account. When I started, it had 3
 
       
         <summary type="html">layout: default modal-id: 4 date: 2014-07-15 img: Wholesomememe.png alt: image-alt project-date: April 2014 client: Start Bootstrap category: Web Development description: I ran the wholesome memes twitter account. When I started, it had 300,000 followers which I have now raised to 3 million followers. I created and curated memes, liked comments and answered direct messages. In addition, I made TikToks for the channel which culminated in 100,000 views each and did live videos on periscope.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Gudernews</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Gudernews" />
+      <published>2014-07-14T00:00:00-04:00</published>
+      <updated>2014-07-14T00:00:00-04:00</updated>
+      <id>http://localhost:4000/gudernews</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
+&lt;p&gt;layout: default
+modal-id: 5
+date: 2022-05-01
+img: gudernews.png
+alt: image-alt
+project-date: May 2022
+client: Start Bootstrap
+category: Social Media
+description: I created a comedy magazine online. I recieve pitches from 9 writers on my slack and create original videos and headlines myself.  Each post ranges from 100-150,000 impressions and 500-1000 likes.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">layout: default modal-id: 5 date: 2022-05-01 img: gudernews.png alt: image-alt project-date: May 2022 client: Start Bootstrap category: Social Media description: I created a comedy magazine online. I recieve pitches from 9 writers on my slack and create original videos and headlines myself. Each post ranges from 100-150,000 impressions and 500-1000 likes.</summary>
       
 
       
