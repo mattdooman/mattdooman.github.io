@@ -7,5 +7,5 @@ alt: image-alt
 project-date: May 2022
 client: Gudernews
 category: Social Media
-description:  I created a comedy magazine online. I recieve pitches from 9 writers on my slack and create original videos and headlines myself.  Each post ranges from 100-150,000 impressions and 500-1000 likes. 
+description:  I created a comedy magazine online. I recieve pitches from 9 writers on my slack and create original videos and headlines myself.  Each post ranges from 100-150,000 impressions and 500-1000 likes on Twitter. 
 ---
