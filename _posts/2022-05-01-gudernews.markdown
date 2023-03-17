@@ -8,5 +8,5 @@ project-date: May 2022
 link: https://twitter.com/gudernews
 client: Gudernews
 category: Social Media
-description:  I created a comedy magazine online. I manage & edit pitches from 9 writers, and create original videos and headlines myself.  Each post gets ~150,000 impressions and ~750 likes on Twitter. 
+description:  I created a comedy magazine online. I create original videos and headlines, and manage & edit pitches from 9 writers.  Each post gets ~150,000 impressions and ~750 likes on Twitter. 
 ---
