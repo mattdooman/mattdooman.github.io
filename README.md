@@ -15,6 +15,7 @@ date: 2020-01-18
 img: cabin.png
 alt: image-alt
 project-date: January 2020
+url: https://www.mattdooman.com
 client: The Client
 category: Web Development
 description: The description of the project
