@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-16T18:06:35-04:00</updated>
+  <updated>2023-03-17T14:23:11-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,47 @@
   
 
   
+  
+    <entry>
+      <title type="html">Harddrivemag</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Harddrivemag" />
+      <published>2022-05-01T00:00:00-04:00</published>
+      <updated>2022-05-01T00:00:00-04:00</updated>
+      <id>http://localhost:4000/harddrivemag</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
+&lt;p&gt;layout: default
+modal-id: 7
+date: 2022-05-01
+img: harddrive.png
+alt: image-alt
+project-date: May 2022
+client: Hard Drive Magazine
+category: Social Media
+description:  I create pitches and write for a comedy magazine online called Hard Drive Magazine. I have written&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">layout: default modal-id: 7 date: 2022-05-01 img: harddrive.png alt: image-alt project-date: May 2022 client: Hard Drive Magazine category: Social Media description: I create pitches and write for a comedy magazine online called Hard Drive Magazine. I have written</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Gudernews</title>
