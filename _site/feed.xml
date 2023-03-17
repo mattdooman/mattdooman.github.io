@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-16T23:46:00-04:00</updated>
+  <updated>2023-03-17T00:44:31-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -25,6 +25,40 @@
       <published>2022-05-01T00:00:00-04:00</published>
       <updated>2022-05-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/Gudernews</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Social Media" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Boys And Girls Club</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Boys And Girls Club" />
+      <published>2022-01-11T00:00:00-05:00</published>
+      <updated>2022-01-11T00:00:00-05:00</updated>
+      <id>http://localhost:4000/Boys-And-Girls-Club</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
