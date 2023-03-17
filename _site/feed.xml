@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-17T14:23:11-04:00</updated>
+  <updated>2023-03-17T14:23:34-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,36 @@
   
 
   
+  
+    <entry>
+      <title type="html"></title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="" />
+      <published>2023-03-17T14:23:34-04:00</published>
+      <updated>2023-03-17T14:23:34-04:00</updated>
+      <id>http://localhost:4000/2022-02-01-Respectful-Memes</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Harddrivemag</title>
@@ -95,11 +125,11 @@ description:  I create pitches and write for a comedy magazine online called Har
     </entry>
   
     <entry>
-      <title type="html">Respectful Memes</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Respectful Memes" />
-      <published>2021-01-01T00:00:00-05:00</published>
-      <updated>2021-01-01T00:00:00-05:00</updated>
-      <id>http://localhost:4000/Respectful-Memes</id>
+      <title type="html">Boys And Girls Club</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Boys And Girls Club" />
+      <published>2022-01-11T00:00:00-05:00</published>
+      <updated>2022-01-11T00:00:00-05:00</updated>
+      <id>http://localhost:4000/Boys-And-Girls-Club</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -163,11 +193,11 @@ description:  I create pitches and write for a comedy magazine online called Har
     </entry>
   
     <entry>
-      <title type="html">Wholesome</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Wholesome" />
+      <title type="html">Wholesome Memes</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Wholesome Memes" />
       <published>2021-01-01T00:00:00-05:00</published>
       <updated>2021-01-01T00:00:00-05:00</updated>
-      <id>http://localhost:4000/wholesome</id>
+      <id>http://localhost:4000/Wholesome-Memes</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -197,11 +227,11 @@ description:  I create pitches and write for a comedy magazine online called Har
     </entry>
   
     <entry>
-      <title type="html">Downdog</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Downdog" />
+      <title type="html">Down Dog App</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Down Dog App" />
       <published>2020-04-01T00:00:00-04:00</published>
       <updated>2020-04-01T00:00:00-04:00</updated>
-      <id>http://localhost:4000/downdog</id>
+      <id>http://localhost:4000/Down-Dog-App</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
