@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-18T15:21:35-04:00</updated>
+  <updated>2023-03-18T15:22:42-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,11 +20,11 @@
   
   
     <entry>
-      <title type="html">Community Sailing</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Community Sailing" />
+      <title type="html">Communitysailing</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Communitysailing" />
       <published>2022-11-01T00:00:00-04:00</published>
       <updated>2022-11-01T00:00:00-04:00</updated>
-      <id>http://localhost:4000/Community-sailing</id>
+      <id>http://localhost:4000/Communitysailing</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
 &lt;p&gt;layout: default
 modal-id: 6
