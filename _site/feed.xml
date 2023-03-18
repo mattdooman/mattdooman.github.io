@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-18T15:29:03-04:00</updated>
+  <updated>2023-03-18T15:29:57-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -164,11 +164,11 @@ description:  I manage the Community Sailing Center of Vermont’s Instagram acc
     </entry>
   
     <entry>
-      <title type="html">Uvm</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Uvm" />
+      <title type="html">University Of Vermont</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="University Of Vermont" />
       <published>2021-01-01T00:00:00-05:00</published>
       <updated>2021-01-01T00:00:00-05:00</updated>
-      <id>http://localhost:4000/UVM</id>
+      <id>http://localhost:4000/University-of-Vermont</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
