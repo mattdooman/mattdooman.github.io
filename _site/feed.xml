@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-18T15:26:36-04:00</updated>
+  <updated>2023-03-18T15:29:03-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,11 +20,11 @@
   
   
     <entry>
-      <title type="html">Communitysailing</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Communitysailing" />
+      <title type="html">Community Sailing</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Community Sailing" />
       <published>2022-11-01T00:00:00-04:00</published>
       <updated>2022-11-01T00:00:00-04:00</updated>
-      <id>http://localhost:4000/Communitysailing</id>
+      <id>http://localhost:4000/Community-sailing</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
 &lt;p&gt;layout: default
 modal-id: 7
@@ -62,11 +62,11 @@ description:  I manage the Community Sailing Center of Vermont’s Instagram acc
     </entry>
   
     <entry>
-      <title type="html">Harddrivemag</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Harddrivemag" />
+      <title type="html">Hard Drive Mag</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Hard Drive Mag" />
       <published>2022-05-01T00:00:00-04:00</published>
       <updated>2022-05-01T00:00:00-04:00</updated>
-      <id>http://localhost:4000/harddrivemag</id>
+      <id>http://localhost:4000/hard-drive-mag</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
