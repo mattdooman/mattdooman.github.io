@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-18T14:52:15-04:00</updated>
+  <updated>2023-03-18T14:53:14-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -25,16 +25,7 @@
       <published>2022-05-01T00:00:00-04:00</published>
       <updated>2022-05-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/harddrivemag</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
-&lt;p&gt;layout: default
-modal-id: 7
-date: 2022-05-01
-img: harddrive.png
-alt: image-alt
-project-date: May 2022
-client: Hard Drive Magazine
-category: Social Media
-description:  I create pitches and write for a comedy magazine online called Hard Drive Magazine, a magazine that satirizes geek and gamer culture. I have written 5 articles that have been published.&lt;/p&gt;</content>
+      <content type="html" xml:base="http://localhost:4000/"></content>
 
       
       
@@ -49,11 +40,13 @@ description:  I create pitches and write for a comedy magazine online called Har
       </author>
 
       
-
+        <category term="Social Media" />
       
 
       
-        <summary type="html">layout: default modal-id: 7 date: 2022-05-01 img: harddrive.png alt: image-alt project-date: May 2022 client: Hard Drive Magazine category: Social Media description: I create pitches and write for a comedy magazine online called Hard Drive Magazine, a magazine that satirizes geek and gamer culture. I have written 5 articles that have been published.</summary>
+
+      
+        <summary type="html"></summary>
       
 
       
