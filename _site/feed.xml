@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-18T15:24:45-04:00</updated>
+  <updated>2023-03-18T15:26:36-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -27,7 +27,7 @@
       <id>http://localhost:4000/Communitysailing</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
 &lt;p&gt;layout: default
-modal-id: 6
+modal-id: 7
 date: 2022-011-01
 img: sailing.png
 alt: image-alt
@@ -54,7 +54,7 @@ description:  I manage the Community Sailing Center of Vermont’s Instagram acc
       
 
       
-        <summary type="html">layout: default modal-id: 6 date: 2022-011-01 img: sailing.png alt: image-alt project-date: May 2022 link: https://www.instagram.com/sailingcenter/?hl=en client: Community Sailing Center category: Social Media description: I manage the Community Sailing Center of Vermont’s Instagram account. I took pictures of classes and kids sailing for content and raised awareness about the end of the year event.</summary>
+        <summary type="html">layout: default modal-id: 7 date: 2022-011-01 img: sailing.png alt: image-alt project-date: May 2022 link: https://www.instagram.com/sailingcenter/?hl=en client: Community Sailing Center category: Social Media description: I manage the Community Sailing Center of Vermont’s Instagram account. I took pictures of classes and kids sailing for content and raised awareness about the end of the year event.</summary>
       
 
       
