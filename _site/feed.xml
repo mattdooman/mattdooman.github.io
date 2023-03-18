@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-03-18T14:59:02-04:00</updated>
+  <updated>2023-03-18T15:18:28-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,48 @@
   
 
   
+  
+    <entry>
+      <title type="html">Boys And Girls Club</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Boys And Girls Club" />
+      <published>2022-11-01T00:00:00-04:00</published>
+      <updated>2022-11-01T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Boys-And-Girls-Club</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
+&lt;p&gt;layout: default
+modal-id: 6
+date: 2022-011-01
+img: sailing.png
+alt: image-alt
+project-date: May 2022
+link: https://www.instagram.com/sailingcenter/?hl=en
+client: Community Sailing Center
+category: Social Media
+description:  I manage the Community Sailing Center of Vermont’s Instagram account. I took pictures of classes and kids sailing for content and raised awareness about the end of the year event.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">layout: default modal-id: 6 date: 2022-011-01 img: sailing.png alt: image-alt project-date: May 2022 link: https://www.instagram.com/sailingcenter/?hl=en client: Community Sailing Center category: Social Media description: I manage the Community Sailing Center of Vermont’s Instagram account. I took pictures of classes and kids sailing for content and raised awareness about the end of the year event.</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Harddrivemag</title>
@@ -59,40 +101,6 @@
       <published>2022-05-01T00:00:00-04:00</published>
       <updated>2022-05-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/gudernews</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Social Media" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Boys And Girls Club</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Boys And Girls Club" />
-      <published>2022-01-11T00:00:00-05:00</published>
-      <updated>2022-01-11T00:00:00-05:00</updated>
-      <id>http://localhost:4000/Boys-And-Girls-Club</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       

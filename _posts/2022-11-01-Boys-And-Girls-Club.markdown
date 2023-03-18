@@ -2,11 +2,10 @@
 layout: default
 modal-id: 6
 date: 2022-011-01
-img: bgc.png
+img: sailing.png
 alt: image-alt
 project-date: May 2022
-link: https://twitter.com/BGCA_Clubs
-client: Boys & Girls Club
+link: https://www.instagram.com/sailingcenter/?hl=en
+client: Community Sailing Center
 category: Social Media
-description:  I manage the Boys & Girls Club of Vermont twitter account.
----
+description:  I manage the Community Sailing Center of Vermont's Instagram account. I took pictures of classes and kids sailing for content and raised awareness about the end of the year event.
