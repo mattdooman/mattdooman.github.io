@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2021-01-01
+date: 2022-07-15
 img: wholesome.png
 alt: image-alt
 project-date: November 2018 - December 2021
