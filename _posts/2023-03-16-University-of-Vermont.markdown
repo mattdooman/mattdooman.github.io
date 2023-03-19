@@ -4,7 +4,7 @@ modal-id: 2
 date: 2021-01-01
 img: uvm.png
 alt: image-alt
-project-date: January 2021
+project-date: June 2018
 client: University of Vermont
 link: https://twitter.com/ReportingUvm
 category: Social Media
