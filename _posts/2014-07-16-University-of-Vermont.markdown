@@ -8,5 +8,5 @@ project-date: January 2021
 client: University of Vermont
 link: https://twitter.com/ReportingUvm
 category: Social Media
-description: I manage the University of Vermont's Reporting Department's Twitter account. I make posts, sharing students work, retweet articles from other Vermont news sites, and increase engagement & follow count. In the period of a year I have raised the engagement by 100,000. and followers by 150. 
+description: I've managed several different UVM organizations' twitter accounts.  For the Center for Research on Vermont, I increased tweet impressions by 4,000%+, and profile visits by 75%.  Currently I manage the Reporting UVM twitter account; sending & scheduling tweets and responding to replies.
 ---
