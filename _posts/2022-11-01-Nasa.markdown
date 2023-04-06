@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 8
+date: 2022-011-01
+img: nasa.png
+alt: image-alt
+project-date: May 2022
+link: https://www.instagram.com/sailingcenter/?hl=en
+client: Community Sailing Center
+category: Social Media
+description:  I did social Media Coverage of Nasa's Artemis II astronaut naming event.
+---
