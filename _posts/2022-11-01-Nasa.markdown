@@ -8,5 +8,5 @@ project-date: November 2022
 link: https://linktr.ee/mattsnasapics
 client: NASA
 category: Social Media
-description:  I did social Media Coverage of Nasa's Artemis II astronaut naming event.
+description:  I did social Media Coverage of Nasa's Artemis II astronaut naming event. I took pictures of the event and made content out of them on my twitter and instagram pages.
 ---
