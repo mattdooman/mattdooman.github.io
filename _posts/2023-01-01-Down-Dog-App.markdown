@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 3
-date: 2020-04-01
+date: 2023-01-01
 img: downdog.png
 alt: image-alt
-project-date: April 2020
+project-date: April 2020 - July 2020
 link: https://www.instagram.com/downdogapp
 client: Down Dog App
 category: Community Management

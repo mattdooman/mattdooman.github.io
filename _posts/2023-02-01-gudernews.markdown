@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 5
-date: 2022-05-01
+date: 2023-02-01
 img: gudernews.png
 alt: image-alt
-project-date: May 2022
+project-date: May 2022 - Present
 link: https://twitter.com/gudernews
 client: Gudernews
 category: Social Media
