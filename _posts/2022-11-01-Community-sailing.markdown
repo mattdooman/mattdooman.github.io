@@ -4,7 +4,7 @@ modal-id: 7
 date: 2022-011-01
 img: sailing.png
 alt: image-alt
-project-date: May 2022
+project-date: November 2022
 link: https://www.instagram.com/sailingcenter/?hl=en
 client: Community Sailing Center
 category: Social Media
