@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2024-04-28T13:28:55-04:00</updated>
+  <updated>2024-04-28T13:31:04-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -61,7 +61,7 @@
       <id>http://localhost:4000/United-way</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
 &lt;p&gt;layout: default
-modal-id: 9
+modal-id: 10
 date: 2023-03-16
 img: UNITEDWAY.png
 alt: image-alt
@@ -88,7 +88,7 @@ description: I researched new ways of marketing and fundraising online. I create
       
 
       
-        <summary type="html">layout: default modal-id: 9 date: 2023-03-16 img: UNITEDWAY.png alt: image-alt project-date: June 2018 client: United Way link: https://unitedwaynwvt.org/ category: Social Media description: I researched new ways of marketing and fundraising online. I created videos to promote all of united way’s work and what they do.</summary>
+        <summary type="html">layout: default modal-id: 10 date: 2023-03-16 img: UNITEDWAY.png alt: image-alt project-date: June 2018 client: United Way link: https://unitedwaynwvt.org/ category: Social Media description: I researched new ways of marketing and fundraising online. I created videos to promote all of united way’s work and what they do.</summary>
       
 
       
