@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2024-04-28T13:27:44-04:00</updated>
+  <updated>2024-04-28T13:28:55-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,11 +20,11 @@
   
   
     <entry>
-      <title type="html">University Of Vermont copy</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="University Of Vermont copy" />
+      <title type="html">University Of Vermont</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="University Of Vermont" />
       <published>2023-03-16T00:00:00-04:00</published>
       <updated>2023-03-16T00:00:00-04:00</updated>
-      <id>http://localhost:4000/University-of-Vermont%20copy</id>
+      <id>http://localhost:4000/University-of-Vermont</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
