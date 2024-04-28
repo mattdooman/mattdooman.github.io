@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-date: 2022-011-01
+date: 2022-11-01
 img: sailing.png
 alt: image-alt
 project-date: November 2022

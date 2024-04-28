@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2024-04-28T13:34:30-04:00</updated>
+  <updated>2024-04-28T13:36:33-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -198,11 +198,11 @@ description: I researched new ways of marketing and fundraising online. I create
     </entry>
   
     <entry>
-      <title type="html">Respectful Memes</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Respectful Memes" />
-      <published>2022-02-01T00:00:00-05:00</published>
-      <updated>2022-02-01T00:00:00-05:00</updated>
-      <id>http://localhost:4000/Respectful-Memes</id>
+      <title type="html">Community Sailing</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Community Sailing" />
+      <published>2022-11-01T00:00:00-04:00</published>
+      <updated>2022-11-01T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Community-sailing</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -232,11 +232,11 @@ description: I researched new ways of marketing and fundraising online. I create
     </entry>
   
     <entry>
-      <title type="html">Community Sailing</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Community Sailing" />
-      <published>2022-01-11T00:00:00-05:00</published>
-      <updated>2022-01-11T00:00:00-05:00</updated>
-      <id>http://localhost:4000/Community-sailing</id>
+      <title type="html">Respectful Memes</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Respectful Memes" />
+      <published>2022-02-01T00:00:00-05:00</published>
+      <updated>2022-02-01T00:00:00-05:00</updated>
+      <id>http://localhost:4000/Respectful-Memes</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
