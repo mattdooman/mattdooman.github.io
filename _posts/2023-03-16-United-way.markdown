@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 date: 2023-03-16
-img: unitedway.png
+img: united-way.png
 alt: image-alt
 project-date: June 2018
 client: United Way
