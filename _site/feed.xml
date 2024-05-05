@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2024-04-28T13:39:05-04:00</updated>
+  <updated>2024-05-05T11:29:44-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -22,8 +22,8 @@
     <entry>
       <title type="html">University Of Vermont</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="University Of Vermont" />
-      <published>2023-03-16T00:00:00-04:00</published>
-      <updated>2023-03-16T00:00:00-04:00</updated>
+      <published>2023-03-20T00:00:00-04:00</published>
+      <updated>2023-03-20T00:00:00-04:00</updated>
       <id>http://localhost:4000/University-of-Vermont</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -59,17 +59,7 @@
       <published>2023-03-16T00:00:00-04:00</published>
       <updated>2023-03-16T00:00:00-04:00</updated>
       <id>http://localhost:4000/United-way</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;hr /&gt;
-&lt;p&gt;layout: default
-modal-id: 9
-date: 2023-03-16
-img: unitedway.png
-alt: image-alt
-project-date: June 2018
-client: United Way
-link: https://unitedwaynwvt.org/
-category: Social Media
-description: I researched new ways of marketing and fundraising online. I created videos to promote all of united way’s work and what they do.&lt;/p&gt;</content>
+      <content type="html" xml:base="http://localhost:4000/"></content>
 
       
       
@@ -84,11 +74,13 @@ description: I researched new ways of marketing and fundraising online. I create
       </author>
 
       
-
+        <category term="Social Media" />
       
 
       
-        <summary type="html">layout: default modal-id: 9 date: 2023-03-16 img: unitedway.png alt: image-alt project-date: June 2018 client: United Way link: https://unitedwaynwvt.org/ category: Social Media description: I researched new ways of marketing and fundraising online. I created videos to promote all of united way’s work and what they do.</summary>
+
+      
+        <summary type="html"></summary>
       
 
       
