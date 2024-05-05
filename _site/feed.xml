@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2024-05-05T13:11:02-04:00</updated>
+  <updated>2024-05-05T19:02:58-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -292,11 +292,11 @@
     </entry>
   
     <entry>
-      <title type="html">Hard Drive Mag</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Hard Drive Mag" />
+      <title type="html">Humane</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Humane" />
       <published>2021-06-01T00:00:00-04:00</published>
       <updated>2021-06-01T00:00:00-04:00</updated>
-      <id>http://localhost:4000/hard-drive-mag</id>
+      <id>http://localhost:4000/Humane</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
